@@ -10,4 +10,11 @@
 - I’m looking for help with: understanding what the hell I'm doing.
 - How to reach me: add Horizon#6417 on discord
 - i dont know everything but i try to learn fast 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielHori&show_icons=true&hide_title=true&theme=dark)
+
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/GabrielHori/AI-APP?style=flat" />
+  <img src="https://img.shields.io/github/last-commit/GabrielHori/AI-APP?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=GabrielHori&style=flat" />
+</p>
+
