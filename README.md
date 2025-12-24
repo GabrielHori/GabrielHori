@@ -18,3 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=GabrielHori&style=flat" />
 </p>
 
+![GitHub last commit](https://img.shields.io/github/last-commit/GabrielHori/AI-APP?style=flat)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/GabrielHori/AI-APP)
+![Profile views](https://komarev.com/ghpvc/?username=GabrielHori&style=flat)
+
+
