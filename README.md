@@ -2,9 +2,8 @@
 
 ### Hi there, I'm Gabriel - aka Horizon
 
-## I'm currently training to become a web developer at Simplon
 
-- At the moment, I'm working on: Beesafe, a web application to prevent the person from finding themselves in dangerous situations.
+- At the moment, I'm working on: HorizonAI.
 - I’m currently learning: Php and javascript.
 - I’m looking to collaborate on: any interesting open source project.
 - I’m looking for help with: understanding what the hell I'm doing.
